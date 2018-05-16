@@ -1,0 +1,23 @@
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MISSION_0
+LANG_ENGLISH        "WarDaddy I"
+
+REFERENCE           MISSION_0_DESC
+LANG_ENGLISH        "WarDaddy I description"
+
+REFERENCE           MISSION_1
+LANG_ENGLISH        "WarDaddy II"
+
+REFERENCE           MISSION_1_DESC
+LANG_ENGLISH        "WarDaddy I description"
+
+REFERENCE           MISSION_2
+LANG_ENGLISH        "WarDaddy III"
+
+REFERENCE           MISSION_2_DESC
+LANG_ENGLISH        "WarDaddy I description"
+
+ENDMARKER
